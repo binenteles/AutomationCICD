@@ -16,6 +16,7 @@ import java.util.List;
 
 public class StandAloneTest {
     public static void main(String[] args) {
+        //this is a test for automation
         String productName = "ZARA COAT 3";
 
         WebDriverManager.chromedriver().setup();
